@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-# VidalCaua09 // LEVEL UP: Dev.Quest.Start(2026)
+# Cauã Vidal // Desenvolvimento de sistemas
 
 <!-- Espaço para um banner ou cabeçalho personalizado -->
 ![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYlgrIa8fM5jzfIHL-utYno0AyFXzU3MUp3a9nn19PdQ&s)
