@@ -33,13 +33,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
-
-### TROPHY SHELF
-
-<!-- Insira o widget dos troféus -->
-[![Trophy Shelf](https://github-profile-trophy.vercel.app/?username=vidalcaua09&theme=radical)](link)
-
 <!-- Link para outros perfis, como sua Steam e Discord -->
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam)](https://steamcommunity.com/profiles/76561199194007757/)
 
