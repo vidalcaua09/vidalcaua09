@@ -7,6 +7,8 @@
 
 <!-- Espaço para um banner ou cabeçalho personalizado -->
 ![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYlgrIa8fM5jzfIHL-utYno0AyFXzU3MUp3a9nn19PdQ&s)
+![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQDxseQQp2BvD67tlQkTMoXKTF8dVgpr9hfmI0a6j8Rw&s=10)
+
 
 ---
 
